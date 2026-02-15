@@ -16,6 +16,11 @@ Real-time payment processing
 
 Production tested
 
+## 🎥 Watch the Full Installation Guide
+
+[![Watch the video](https://img.youtube.com/vi/e01fG35SqzM/maxresdefault.jpg)](https://youtu.be/e01fG35SqzM)
+
+
 Supports Mobile Money & Card payments
 
 📌 Requirements
@@ -165,3 +170,7 @@ Check lenco_debug.log for webhook logs
 
 BIG VOICE TECHNOLOGIES
 https://www.bigvoice.info
+
+## 🎥 Watch the Full Installation Guide
+
+[![Watch the video](https://img.youtube.com/vi/e01fG35SqzM/maxresdefault.jpg)](https://youtu.be/e01fG35SqzM)
