@@ -18,8 +18,7 @@ Production tested
 
 ## 🎥 Watch the Full Installation Guide
 
-[![Watch the video](https://img.youtube.com/vi/e01fG35SqzM/maxresdefault.jpg)](https://youtu.be/e01fG35SqzM)
-
+[![Watch the Video](https://img.youtube.com/vi/e01fG35SqzM/hqdefault.jpg)](https://youtu.be/e01fG35SqzM)
 
 Supports Mobile Money & Card payments
 
@@ -173,4 +172,4 @@ https://www.bigvoice.info
 
 ## 🎥 Watch the Full Installation Guide
 
-[![Watch the video](https://img.youtube.com/vi/e01fG35SqzM/maxresdefault.jpg)](https://youtu.be/e01fG35SqzM)
+[![Watch the Video](https://img.youtube.com/vi/e01fG35SqzM/hqdefault.jpg)](https://youtu.be/e01fG35SqzM)
